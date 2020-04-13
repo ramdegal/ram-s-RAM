@@ -1,1 +1,1 @@
-printf("Hi this is file2.c
+printf("Hi this is file2.c\n");
